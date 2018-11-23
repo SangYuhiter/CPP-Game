@@ -9,4 +9,7 @@ Some Interesting small game write by CPP.
 ###WordJumble(one game)
 猜词游戏
 
+###HangMan(one game)
+给定词猜词中字母游戏
+
 ##Author:SangYu
