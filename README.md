@@ -12,4 +12,7 @@ Some Interesting small game write by CPP.
 ###HangMan(one game)
 给定词猜词中字母游戏
 
+###MadLib(one game)
+输入关键词，输出个性化故事
+
 ##Author:SangYu
