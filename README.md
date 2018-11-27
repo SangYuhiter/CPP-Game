@@ -21,4 +21,7 @@ Some Interesting small game write by CPP.
 ###CritterCaretaker(one game)
 虚拟宠物
 
+###GameLobby(one game)
+游戏大厅的人数增减
+
 ##Author:SangYu
