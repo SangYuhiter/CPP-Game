@@ -18,4 +18,7 @@ Some Interesting small game write by CPP.
 ###TicTacToe(one game)
 ¾®×ÖÆå
 
+###CritterCaretaker(one game)
+ĞéÄâ³èÎï
+
 ##Author:SangYu
