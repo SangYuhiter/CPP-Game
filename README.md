@@ -24,4 +24,7 @@ Some Interesting small game write by CPP.
 ###GameLobby(one game)
 游戏大厅的人数增减
 
+###BlackJack(one game)
+决战21点
+
 ##Author:SangYu
